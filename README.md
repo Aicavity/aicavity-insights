@@ -1,6 +1,6 @@
 # Aicavity Insights
 
-This repository contains implementations and Datasets to accompany Aicavity Insights.
+This repository contains practical implementations and Datasets to accompany Aicavity Insights.
 
 ![My animated logo](aicavity-insights.jpg)
 
