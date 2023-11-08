@@ -2,6 +2,6 @@
 
 This repository contains practical implementations and Datasets to accompany Aicavity Insights.
 
-![My animated logo](aicavity-insights.jpg)
+![Aicavity Insights](aicavity-insights.jpg)
 
 Link: [Aicavity Insights](https://aicavity.com/insights)
